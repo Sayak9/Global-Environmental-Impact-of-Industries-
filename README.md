@@ -1,4 +1,3 @@
-```markdown
 # Environmental Impact of Industries Dashboard
 
 ![Dashboard Preview](dashboard.png)
@@ -22,5 +21,3 @@ This project explores global industrial sustainability metrics through an intera
 1. Download the packaged workbook file from this repository.
 2. Open the file using Tableau Desktop or Tableau Reader to interact with the filters and explore the underlying data visualizations.
 3. Alternatively you can view the published version on Tableau Public if available.
-
-```
