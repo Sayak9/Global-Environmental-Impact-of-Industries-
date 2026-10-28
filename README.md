@@ -1,7 +1,3 @@
-To include standard headers in your Markdown file, use `#` symbols for headings.
-
-Here is the updated `README.md` text formatted with standard `#` header tags and updated to use your uploaded image filename (`dashboard.png`), with no dashes included anywhere in the text:
-
 ```markdown
 # Environmental Impact of Industries Dashboard
 
