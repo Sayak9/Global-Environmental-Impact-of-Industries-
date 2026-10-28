@@ -1,6 +1,6 @@
 # Environmental Impact of Industries Dashboard
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 # Project Overview
 This project explores global industrial sustainability metrics through an interactive Tableau dashboard. The goal was to transform raw environmental data into clear insights that business leaders and policymakers can use to track emissions, energy consumption, and recycling efficiency across multiple sectors and regions.
