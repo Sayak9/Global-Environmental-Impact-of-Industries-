@@ -1,4 +1,4 @@
-# Environmental Impact of Industries Dashboard
+# Global Environmental Impact of Industries Dashboard
 
 ![Dashboard Preview](Dashboard.png)
 
@@ -14,8 +14,8 @@ This project explores global industrial sustainability metrics through an intera
 * Detailed heatmaps map out recycling performance across different sectors and territories to identify top performers and areas needing improvement.
 
 # Files Included
-* Industrial Environmental Impact Dashboard.twbx containing all data sources, calculated fields, and fully formatted worksheets.
-* dashboard.png displaying the live dashboard layout and visual hierarchy.
+* Industrial Environmental Impact.twbx containing all data sources, calculated fields, and fully formatted worksheets.
+* Dashboard.png displaying the live dashboard layout and visual hierarchy.
 
 # How to Explore
 1. Download the packaged workbook file from this repository.
